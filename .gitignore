@@ -1,0 +1,9 @@
+# MySQL Workbench / local exports
+*.mwb.bak
+*.sql.bak
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
